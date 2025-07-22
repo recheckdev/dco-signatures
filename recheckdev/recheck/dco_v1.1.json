@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "pushcx",
+      "id": 6262,
+      "comment_id": 3103477403,
+      "created_at": "2025-07-22T15:41:03Z",
+      "repoId": 1001101445,
+      "pullRequestNo": 1
+    }
+  ]
 }
